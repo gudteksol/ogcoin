@@ -74,7 +74,7 @@ function App() {
           <h2 className="text-3xl font-bold text-gray-900 text-center mb-6">live chart</h2>
           <div className="w-full bg-gray-50 rounded-lg overflow-hidden shadow-sm">
             <iframe
-              src="https://dexscreener.com/solana/3t7uhgT5VK5v5aN18vCJuYPXbthX5KZyDfNK8qywpump?embed=1&theme=light&trades=0&info=0"
+              src="https://dexscreener.com/solana/?embed=1&theme=light&trades=0&info=0"
               className="w-full h-[600px] border-0"
               title="DexScreener Chart"
             />
