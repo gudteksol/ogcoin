@@ -60,7 +60,7 @@ function App() {
             <span>twitter</span>
           </a>
           <a
-            href="https://x.com/i/communities/2014225795582242843"
+            href="https://x.com/i/communities/2014268767136837925"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors shadow-lg"
