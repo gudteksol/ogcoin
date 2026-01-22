@@ -51,7 +51,7 @@ function App() {
 
         <div className="flex gap-4 justify-center mb-12">
           <a
-            href="https://x.com/theoriginalcoin"
+            href="https://x.com/imakuant"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors shadow-lg"
